@@ -50,7 +50,10 @@ Developed by: RegisterNumber:
 **TIMING DIGRAMS FOR Encoder 8 To 3 in Dataflow Modelling**
 
 **RESULTS**
+ Logic diagram
 
+<img width="464" height="305" alt="exp 5 lq" src="https://github.com/user-attachments/assets/ce724331-84b7-4068-9843-0b969033d2ff" />
 
+State diagram
 
-
+<img width="1919" height="428" alt="exp 5 wf" src="https://github.com/user-attachments/assets/2177f6ff-b01c-46dd-8b54-256cca3d6570" />
